@@ -1,0 +1,16 @@
+p,h1,h2,h3,table,ul{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: url(../img/Texture.jpg);
+    background-attachment: fixed; 
+    background-position: center;
+    background-repeat: repeat-x;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: yellowgreen;
+}

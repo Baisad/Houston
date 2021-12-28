@@ -1,4 +1,4 @@
-p,h1,h2,h3,table,ul{
+p,h1,h2,h3,table,ul,figcaption{
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -13,4 +13,6 @@ a{
 }
 a:hover{
     color: yellowgreen;
+    font-size: 30px;
+    transition: 0.2s;
 }
